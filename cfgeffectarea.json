@@ -1,0 +1,148 @@
+{
+    "Areas": [
+        {
+            "AreaName": "StaticRadiationZone_causeway",
+            "Type": "SR_RadiationContaminatedArea_Static",
+            "TriggerType": "SR_RadiationContaminatedTrigger",
+            "Data": {
+                "Pos": [6682, 0, 9611],
+                "Radius": 200,
+                "PosHeight": 500,
+                "NegHeight": 500,
+                "InnerRingCount": 0,
+                "InnerPartDist": 0,
+                "OuterRingToggle": 0,
+                "OuterPartDist": 0,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": ""
+            },
+            "PlayerData": {
+                "AroundPartName": "",
+                "TinyPartName": "",
+                "PPERequesterType": "PPERequester_RadiationContaminated"
+            }
+        },
+        {
+            "AreaName": "StaticRadiationZone_causeway",
+            "Type": "SR_RadiationContaminatedArea_Static",
+            "TriggerType": "SR_RadiationContaminatedTrigger",
+            "Data": {
+                "Pos": [4000, 20, 6500],
+                "Radius": 2000,
+                "PosHeight": 162,
+                "NegHeight": 500,
+                "InnerRingCount": 0,
+                "InnerPartDist": 0,
+                "OuterRingToggle": 0,
+                "OuterPartDist": 0,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": ""
+            },
+            "PlayerData": {
+                "AroundPartName": "",
+                "TinyPartName": "",
+                "PPERequesterType": "PPERequester_RadiationContaminated"
+            }
+        },
+        {
+            "AreaName": "StaticRadiationZone_NorthAbandonedVillage",
+            "Type": "SR_RadiationContaminatedArea_Static",
+            "TriggerType": "SR_RadiationContaminatedTrigger",
+            "Data": {
+                "Pos": [4956, 0, 11262],
+                "Radius": 100,
+                "PosHeight": 500,
+                "NegHeight": 500,
+                "InnerRingCount": 0,
+                "InnerPartDist": 0,
+                "OuterRingToggle": 0,
+                "OuterPartDist": 0,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": ""
+            },
+            "PlayerData": {
+                "AroundPartName": "",
+                "TinyPartName": "",
+                "PPERequesterType": "PPERequester_RadiationContaminated"
+            }
+        },
+        {
+            "AreaName": "StaticRadiationZone_Swamps",
+            "Type": "SR_RadiationContaminatedArea_Static",
+            "TriggerType": "SR_RadiationContaminatedTrigger",
+            "Data": {
+                "Pos": [6850, 0, 9941],
+                "Radius": 190,
+                "PosHeight": 500,
+                "NegHeight": 500,
+                "InnerRingCount": 0,
+                "InnerPartDist": 0,
+                "OuterRingToggle": 0,
+                "OuterPartDist": 0,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": ""
+            },
+            "PlayerData": {
+                "AroundPartName": "",
+                "TinyPartName": "",
+                "PPERequesterType": "PPERequester_RadiationContaminated"
+            }
+        },
+        {
+            "AreaName": "StaticRadiationZone_SebjanDam",
+            "Type": "SR_RadiationContaminatedArea_Static",
+            "TriggerType": "SR_RadiationContaminatedTrigger",
+            "Data": {
+                "Pos": [5741, 0, 9801],
+                "Radius": 250,
+                "PosHeight": 500,
+                "NegHeight": 500,
+                "InnerRingCount": 0,
+                "InnerPartDist": 0,
+                "OuterRingToggle": 0,
+                "OuterPartDist": 0,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": ""
+            },
+            "PlayerData": {
+                "AroundPartName": "",
+                "TinyPartName": "",
+                "PPERequesterType": "PPERequester_RadiationContaminated"
+            }
+        },
+        {
+            "AreaName": "StaticRadiationZone_Athena1",
+            "Type": "SR_RadiationContaminatedArea_Static",
+            "TriggerType": "SR_RadiationContaminatedTrigger",
+            "Data": {
+                "Pos": [3768, 0, 8243],
+                "Radius": 250,
+                "PosHeight": 500,
+                "NegHeight": 500,
+                "InnerRingCount": 0,
+                "InnerPartDist": 0,
+                "OuterRingToggle": 0,
+                "OuterPartDist": 0,
+                "OuterOffset": 0,
+                "VerticalLayers": 0,
+                "VerticalOffset": 0,
+                "ParticleName": ""
+            },
+            "PlayerData": {
+                "AroundPartName": "",
+                "TinyPartName": "",
+                "PPERequesterType": "PPERequester_RadiationContaminated"
+            }
+        }
+    ]
+}
