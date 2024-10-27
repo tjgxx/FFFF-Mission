@@ -328,6 +328,23 @@
             <child lootmax="0" lootmin="0" max="70" min="50" type="FFFF_WoodenCrateStash_T4"/>
         </children>
     </event>
+    <event name="StaticFFFFWoodenCrateStashT5">
+        <nominal>100</nominal>
+        <!-- <min>1</min>
+        <max>1</max> -->
+        <lifetime>60</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>500</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="100" min="100" type="FFFF_WoodenCrateStash_T5"/>
+        </children>
+    </event>
 
 
     <event name="StaticFFFFProtectorCaseStashT1">
@@ -398,6 +415,21 @@
             <child lootmax="0" lootmin="0" max="50" min="30" type="FFFF_ProtectorCaseStash_T4"/>
         </children>
     </event>
+    <event name="StaticFFFFProtectorCaseStashT5">
+        <nominal>100</nominal>
+        <lifetime>60</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>500</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="100" min="100" type="FFFF_ProtectorCaseStash_T5"/>
+        </children>
+    </event>
 
     <event name="StaticFFFFCanvasBagStashT1">
         <nominal>0</nominal>
@@ -465,6 +497,23 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="75" min="50" type="FFFF_CanvasBagStash_T4"/>
+        </children>
+    </event>
+    <event name="StaticFFFFCanvasBagStashT5">
+        <nominal>100</nominal>
+        <!-- <min>1</min>
+        <max>1</max> -->
+        <lifetime>60</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>500</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="100" min="100" type="FFFF_CanvasBagStash_T5"/>
         </children>
     </event>
 
@@ -537,6 +586,23 @@
             <child lootmax="0" lootmin="0" max="20" min="12" type="FFFF_WeaponCrateStash_T4"/>
         </children>
     </event>
+    <event name="StaticFFFFWeaponCrateStashT5">
+        <nominal>100</nominal>
+        <!-- <min>1</min>
+        <max>1</max> -->
+        <lifetime>60</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>500</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="100" min="100" type="FFFF_WeaponCrateStash_T5"/>
+        </children>
+    </event>
 
 
     <event name="StaticFFFFMedicBoxStashT1">
@@ -605,6 +671,23 @@
         <active>1</active>
         <children>
             <child lootmax="0" lootmin="0" max="7" min="3" type="FFFF_MedicBoxStash_T4"/>
+        </children>
+    </event>
+    <event name="StaticFFFFMedicBoxStashT5">
+        <nominal>100</nominal>
+        <!-- <min>1</min>
+        <max>1</max> -->
+        <lifetime>60</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>500</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="100" min="100" type="FFFF_MedicBoxStash_T5"/>
         </children>
     </event>
 
@@ -677,7 +760,23 @@
             <child lootmax="0" lootmin="0" max="8" min="3" type="FFFF_GrenadeCaseStash_T4"/>
         </children>
     </event>
-
+    <event name="StaticFFFFGrenadeCaseStashT5">
+        <nominal>100</nominal>
+        <!-- <min>1</min>
+        <max>1</max> -->
+        <lifetime>60</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>500</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="100" min="100" type="FFFF_GrenadeCaseStash_T5"/>
+        </children>
+    </event>
 
     <event name="StaticFFFFPaletteStorageStashT1">
         <nominal>100</nominal>
@@ -747,6 +846,24 @@
             <child lootmax="0" lootmin="0" max="1" min="0" type="FFFF_PaletteStorageStash_T4"/>
         </children>
     </event>
+    <event name="StaticFFFFPaletteStorageStashT5">
+        <nominal>100</nominal>
+        <!-- <min>0</min>
+        <max>1</max> -->
+        <lifetime>60</lifetime>
+        <restock>0</restock>
+        <saferadius>1</saferadius>
+        <distanceradius>1</distanceradius>
+        <cleanupradius>500</cleanupradius>
+        <flags deletable="1" init_random="0" remove_damaged="1"/>
+        <position>fixed</position>
+        <limit>child</limit>
+        <active>1</active>
+        <children>
+            <child lootmax="0" lootmin="0" max="100" min="100" type="FFFF_PaletteStorageStash_T5"/>
+        </children>
+    </event>
+
 
 
     <event name="StaticMedDrop">

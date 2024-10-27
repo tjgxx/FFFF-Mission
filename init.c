@@ -18,17 +18,7 @@ void main()
 	*/
 	int year, month, day, hour, minute;
 	GetGame().GetWorld().GetDate( year, month, day, hour, minute );
-	
-	if ( month < 12 )
-    {
-    	year = 2023;
-        month = 8;
-        day = 1;
-		
-		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
-	}
-	/*
-	WINTER NAMALSK
+
     if ( ( month < 11 ) || ( month >= 12 ) )
     {
     	year = 2011;
@@ -37,28 +27,7 @@ void main()
 		
 		GetGame().GetWorld().SetDate( year, month, day, hour, minute );
 	}
-	*/
-	Get_ab_WillowispManager().CreateRandomWillowispController("Sebjan Mine Woods", "4802.379883 88.361198 8559.879883", 500, 40, Math.RandomIntInclusive(1, 3));
-	
-	array<string> willowispPositions = {
-		"4507.180176 87.886299 8202.490234",
-		"4504.870117 87.929703 8228.429688",
-		"4231.950195 78.514603 8081.220215",
-		"4236.709961 78.568398 8123.149902",
-		"4311.850098 79.753601 8049.379883",
-		"8557.900391 14.999963 10382.881836",
-		"8885.138672 13.474287 10267.426758",
-		"8743.138672 15.762648 10018.023438",
-		"5194.238770 23.422983 10823.314453"
-	};
-	Get_ab_WillowispManager().CreateRandomWillowispController("woods north west", "5546.490234 52.934620 11010.299805", 500, 200, 15);
-	Get_ab_WillowispManager().CreateRandomWillowispController("Sebjan woods north", "4835.031250 86.271873 8596.339844", 500, 200, 10);
-	Get_ab_DesignatorManager().CreateRandomDesignatorController("Veresnik Fields", "5933.004883 39.196339 8925.993164", 500, 100, 30);
-	Get_ab_DesignatorManager().CreateRandomDesignatorController("Wods", "4726.369629 93.141541 8496.296875", 500, 200, 20);
-	Get_ab_DesignatorManager().CreateRandomDesignatorController("Forrest lubjansk", "4513.329102 53.664604 9405.777344", 250, 200, 20);
-	Get_ab_WillowispManager().CreateRandomWillowispController("Sebjan woods north", "5698.758301 87.719589 7815.573730", 500, 200, 20);
-	Get_ab_DesignatorManager().CreateRandomDesignatorController("Veresnik Fields", "5698.758301 87.719589 7815.573730", 500, 100, 20);
-	};
+};
 
 class CustomMission: MissionServer
 {
@@ -73,12 +42,12 @@ class CustomMission: MissionServer
 			// enable/disable event system, min time between events, max time between events, max number of events at the same time
 			m_EventManagerServer.OnInitServer( true, 550, 1000, 2 );
 			// registering events and their probability
-			m_EventManagerServer.RegisterEvent( Aurora, 0.25 );
-			m_EventManagerServer.RegisterEvent( EVRStorm, 0.15 );
-			// m_EventManagerServer.RegisterEvent( Blizzard, 0.05 );
-			// m_EventManagerServer.RegisterEvent( ExtremeCold, 0.2 );
-			// m_EventManagerServer.RegisterEvent( Snowfall, 0.9 );
-			// m_EventManagerServer.RegisterEvent( HeavyFog, 0.05 );
+			m_EventManagerServer.RegisterEvent( Aurora, 0.2 );
+			m_EventManagerServer.RegisterEvent( Blizzard, 0.05 );
+			m_EventManagerServer.RegisterEvent( ExtremeCold, 0.2 );
+			m_EventManagerServer.RegisterEvent( Snowfall, 0.6 );
+			m_EventManagerServer.RegisterEvent( EVRStorm, 0.25 );
+			m_EventManagerServer.RegisterEvent( HeavyFog, 0.05 );
 		}
 	}
 
@@ -160,6 +129,7 @@ class CustomMission: MissionServer
 		player.GetStatWater().Set( 900 );
 		player.GetStatEnergy().Set( 1100 );
 	}
+ 
 };
   
 Mission CreateCustomMission(string path)

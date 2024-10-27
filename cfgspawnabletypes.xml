@@ -2089,7 +2089,15 @@
     <cargo preset="FFFF_RadiationStash_T4" />
     <cargo preset="FFFF_TechStash_T4" />
 </type>
-
+<type name="FFFF_WoodenCrateStash_T5">
+    <cargo preset="FFFF_SurvivorStash_T5" />
+    <cargo preset="FFFF_WeaponsStash_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
+    <cargo preset="FFFF_GearStash_T5" />
+    <cargo preset="FFFF_AttachmentStash_T5" />
+    <cargo preset="FFFF_RadiationStash_T5" />
+    <cargo preset="FFFF_TechStash_T5" />
+</type>
 
 <type name="FFFF_ProtectorCaseStash_T1">
     <cargo preset="FFFF_SurvivorStash_T1" />
@@ -2132,7 +2140,15 @@
     <cargo preset="FFFF_RadiationStash_T4" />
     <cargo preset="FFFF_TechStash_T4" />
 </type>
-
+<type name="FFFF_ProtectorCaseStash_T5">
+    <cargo preset="FFFF_SurvivorStash_T5" />
+    <cargo preset="FFFF_WeaponsStash_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
+    <cargo preset="FFFF_GearStash_T5" />
+    <cargo preset="FFFF_AttachmentStash_T5" />
+    <cargo preset="FFFF_RadiationStash_T5" />
+    <cargo preset="FFFF_TechStash_T5" />
+</type>
 
 <type name="FFFF_CanvasBagStash_T1">
     <cargo preset="FFFF_SurvivorStash_T1" />
@@ -2175,6 +2191,15 @@
     <cargo preset="FFFF_RadiationStash_T4" />
     <cargo preset="FFFF_TechStash_T4" />
 </type>
+<type name="FFFF_CanvasBagStash_T5">
+    <cargo preset="FFFF_SurvivorStash_T5" />
+    <cargo preset="FFFF_WeaponsStash_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
+    <cargo preset="FFFF_GearStash_T5" />
+    <cargo preset="FFFF_AttachmentStash_T5" />
+    <cargo preset="FFFF_RadiationStash_T5" />
+    <cargo preset="FFFF_TechStash_T5" />
+</type>
 <type name="FFFF_WeaponCrateStash_T1">
     <cargo preset="FFFF_WeaponsStash_T1" />
     <cargo preset="FFFF_AmmoStash_T1" />
@@ -2209,6 +2234,15 @@
     <cargo preset="FFFF_AmmoStash_T4" />
     <cargo preset="FFFF_AttachmentStash_T4" />
     <cargo preset="FFFF_AmmoStash_T4" />
+</type>
+<type name="FFFF_WeaponCrateStash_T5">
+    <cargo preset="FFFF_WeaponsStash_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
+    <cargo preset="FFFF_AttachmentStash_T5" />
+    <cargo preset="FFFF_WeaponsStashRare_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
+    <cargo preset="FFFF_AttachmentStash_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
 </type>
 <type name="FFFF_MedicBoxStash_T1">
     <cargo preset="FFFF_SurvivorStash_T1" />
@@ -2250,6 +2284,15 @@
     <cargo preset="FFFF_AttachmentStash_T4" />
     <cargo preset="FFFF_RadiationStash_T4" />
     <cargo preset="FFFF_TechStash_T4" />
+</type>
+<type name="FFFF_MedicBoxStash_T5">
+    <cargo preset="FFFF_SurvivorStash_T5" />
+    <cargo preset="FFFF_WeaponsStash_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
+    <cargo preset="FFFF_GearStash_T5" />
+    <cargo preset="FFFF_AttachmentStash_T5" />
+    <cargo preset="FFFF_RadiationStash_T5" />
+    <cargo preset="FFFF_TechStash_T5" />
 </type>
 
 
@@ -2294,7 +2337,15 @@
     <cargo preset="FFFF_RadiationStash_T4" />
     <cargo preset="FFFF_TechStash_T4" />
 </type>
-
+<type name="FFFF_GrenadeCaseStash_T5">
+    <cargo preset="FFFF_SurvivorStash_T5" />
+    <cargo preset="FFFF_WeaponsStash_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
+    <cargo preset="FFFF_GearStash_T5" />
+    <cargo preset="FFFF_AttachmentStash_T5" />
+    <cargo preset="FFFF_RadiationStash_T5" />
+    <cargo preset="FFFF_TechStash_T5" />
+</type>
 
 <type name="FFFF_PaletteStorageStash_T1">
     <cargo preset="FFFF_SurvivorStash_T1" />
@@ -2338,6 +2389,17 @@
     <cargo preset="FFFF_TechStash_T4" />
     <cargo preset="FFFF_TechStash_T4" />
     <cargo preset="FFFF_TechStash_T4" />
+</type>
+<type name="FFFF_PaletteStorageStash_T5">
+    <cargo preset="FFFF_SurvivorStash_T5" />
+    <cargo preset="FFFF_WeaponsStash_T5" />
+    <cargo preset="FFFF_AmmoStash_T5" />
+    <cargo preset="FFFF_GearStash_T5" />
+    <cargo preset="FFFF_AttachmentStash_T5" />
+    <cargo preset="FFFF_RadiationStash_T5" />
+    <cargo preset="FFFF_TechStash_T5" />
+    <cargo preset="FFFF_TechStash_T5" />
+    <cargo preset="FFFF_TechStash_T5" />
 </type>
 
     <type name="GiftBox_Medium_2">

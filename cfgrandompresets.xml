@@ -363,6 +363,18 @@
 		<item name="Epinephrine" chance="0.10" />
 		<item name="Morphine" chance="0.10" />
 	</cargo>
+	<cargo chance="1.00" name="FFFF_SurvivorStash_T5">
+		<item name="MMG_bottle_black" chance="0.10" />
+		<item name="MMG_bottle_olive" chance="0.10" />
+		<item name="Honey" chance="0.10" />
+		<item name="TacticalBaconCan" chance="0.10" />
+		<item name="BandageDressing" chance="0.10" />
+		<item name="SR_Med_Turnicket" chance="0.10" />
+		<item name="MedPlus_Vikasol" chance="0.10" />
+		<item name="MedPlus_Diazepam" chance="0.10" />
+		<item name="Epinephrine" chance="0.10" />
+		<item name="Morphine" chance="0.10" />
+	</cargo>
 	<cargo chance="0.66" name="FFFF_WeaponsStash_T1">
 		<item name="SawedoffIzh18Shotgun" chance="0.005" />
 		<item name="SawedoffIzh43" chance="0.005" />
@@ -457,6 +469,75 @@
 		<item name="BO_SKS_Tactical" chance="0.083" />
 		<item name="TF_M1A_Black" chance="0.060" />
 	</cargo>
+	<cargo chance="0.50" name="FFFF_WeaponsStash_T5">
+		<item name="BO_M4_15G" chance="0.02475" />
+		<item name="BO_M4_15G_NoSling" chance="0.02475" />
+		<item name="BO_M4_15G_FDE" chance="0.00825" />
+		<item name="BO_FAMAS" chance="0.01980" />
+		<item name="BO_G36A1" chance="0.01980" />
+		<item name="BO_G36C" chance="0.01980" />
+		<item name="BO_MDR_Black" chance="0.01980" />
+		<item name="BO_MDR_Tan" chance="0.00825" />
+		<item name="BO_F2000" chance="0.01485" />
+		<item name="BO_M4_15G_FDE_NoSling" chance="0.00825" />
+		<item name="BO_L85" chance="0.01980" />
+		<item name="BO_L85_RIS" chance="0.00825" />
+		<item name="BO_HK416" chance="0.01980" />
+		<item name="BO_MK12" chance="0.02475" />
+		<item name="BO_MK18" chance="0.00825" />
+		<item name="BO_TAR21" chance="0.01650" />
+		<item name="BO_Sig552" chance="0.01980" />
+		<item name="BO_AK5C" chance="0.01650" />
+		<item name="BO_M16A1" chance="0.02475" />
+		<item name="BO_PDWR_556" chance="0.01650" />
+		<item name="BO_ACR_TAN" chance="0.00825" />
+		<item name="BO_ACR_Black" chance="0.01650" />
+		<item name="BO_SCARL_Black" chance="0.01980" />
+		<item name="BO_SCARL_Tan" chance="0.00825" />
+		<item name="BO_Stoner63A" chance="0.01980" />
+		<item name="BO_TavorX95" chance="0.01650" />
+		<item name="BO_CAR15" chance="0.01980" />
+		<item name="BO_U100" chance="0.00825" />
+		<item name="TF_AK101" chance="0.01980" />
+		<item name="TF_AK102" chance="0.01980" />
+		<item name="TF_M4A1_CQBR" chance="0.02475" />
+		<item name="TF_M4A1" chance="0.02475" />
+		<item name="TF_SCAR_L_FDE" chance="0.00825" />
+		<item name="TF_SCAR_L_Black" chance="0.01980" />
+		<item name="TF_SCAR_L_CQC_FDE" chance="0.01980" />
+		<item name="TF_SCAR_L_CQC_Black" chance="0.01980" />
+		<item name="TF_M16A4" chance="0.02475" />
+		<item name="BO_MCXTacops_Black" chance="0.01980" />
+		<item name="BO_USAS12" chance="0.00825" />
+		<item name="TF_AK103" chance="0.01980" />
+		<item name="TF_AK104" chance="0.01980" />
+		<item name="TF_AKM" chance="0.01980" />
+		<item name="TF_AKMN" chance="0.01980" />
+		<item name="TF_MK47" chance="0.01980" />
+		<item name="BO_SCARH_Black" chance="0.00825" />
+		<item name="BO_SCARH_Tan" chance="0.00825" />
+		<item name="BO_FNFAL" chance="0.00825" />
+		<item name="BO_M110_Black" chance="0.00825" />
+		<item name="BO_M110_Tan" chance="0.00660" />
+		<item name="BO_ACR17S" chance="0.00825" />
+		<item name="BO_MK14" chance="0.00825" />
+		<item name="BO_SA58" chance="0.00825" />
+		<item name="BO_MCXSpear_Tan" chance="0.00825" />
+		<item name="BO_L96" chance="0.00825" />
+		<item name="TF_SVCh308" chance="0.00825" />
+		<item name="BO_AN94" chance="0.01320" />
+		<item name="BO_AEK971" chance="0.01155" />
+		<item name="BO_AK74" chance="0.01320" />
+		<item name="BO_RPK16" chance="0.01320" />
+		<item name="BO_TKB0146" chance="0.01320" />
+		<item name="TF_AK105_Bullpup" chance="0.01320" />
+		<item name="TF_AK105" chance="0.01320" />
+		<item name="TF_AK74M" chance="0.01320" />
+		<item name="TF_AKS74U" chance="0.01155" />
+		<item name="TF_AN94" chance="0.01320" />
+		<item name="TF_AN94M" chance="0.01320" />
+		<item name="Vikhr" chance="0.00016" />
+	</cargo>
 	<cargo chance="1.00" name="FFFF_AmmoStash_T1">
 		<item name="AmmoBox_22_50rnd" chance="0.0625" />
 		<item name="AmmoBox_9x19_25rnd" chance="0.0625" />
@@ -526,6 +607,68 @@
 		<item name="Mag_FAMAS_25Rnd" chance="0.042" />
 		<item name="Mag_AKM_Drum75Rnd" chance="0.014" />
 	</cargo>
+	<cargo chance="1.00" name="FFFF_AmmoStash_T5">
+		<item name="AmmoBox_556x45Tracer_20Rnd" chance="0.12739" />
+		<item name="AmmoBox_308WinTracer_20Rnd" chance="0.07643" />
+		<item name="AmmoBox_545x39Tracer_20Rnd" chance="0.12739" />
+		<item name="AmmoBox_762x39Tracer_20Rnd" chance="0.10828" />
+		<item name="AmmoBox_762x54Tracer_20Rnd" chance="0.07643" />
+		<item name="AmmoBox_9x39_20Rnd" chance="0.00637" />
+		<item name="AmmoBox_9x39AP_20Rnd" chance="0.00637" />
+		<item name="AE_AmmoBox_792x57_20rnd" chance="0.03185" />
+		<item name="AmmoBox_556x45_20Rnd" chance="0.10828" />
+		<item name="AmmoBox_308Win_20Rnd" chance="0.06369" />
+		<item name="AmmoBox_545x39_20Rnd" chance="0.10828" />
+		<item name="AmmoBox_762x39_20Rnd" chance="0.09554" />
+		<item name="AmmoBox_762x54_20Rnd" chance="0.06369" />
+	</cargo>
+	<cargo chance="0.75" name="FFFF_MagStash_T1">
+
+	</cargo>
+	<cargo chance="0.75" name="FFFF_MagStash_T2">
+
+	</cargo>
+	<cargo chance="0.75" name="FFFF_MagStash_T3">
+
+	</cargo>
+	<cargo chance="0.75" name="FFFF_MagStash_T4">
+
+	</cargo>
+	<cargo chance="0.75" name="FFFF_MagStash_T5">
+		<item name="BO_Mag_SCARH_Tan_20rnd" chance="0.01377" />
+		<item name="BO_Mag_SCARH_20rnd" chance="0.01377" />
+		<item name="Mag_STANAG_30Rnd" chance="0.06887" />
+		<item name="BO_Mag_USAS12_10rnd" chance="0.02755" />
+		<item name="BO_Mag_MCXSpear_20rnd" chance="0.01377" />
+		<item name="BO_Mag_SA58_20rnd" chance="0.01377" />
+		<item name="Mag_FAL_20Rnd" chance="0.01377" />
+		<item name="BO_Mag_Sig552_30rnd" chance="0.05510" />
+		<item name="Mag_STANAG_60Rnd" chance="0.01377" />
+		<item name="TF_Mag_SVCh308_10Rnd" chance="0.01377" />
+		<item name="Mag_SVD_10Rnd" chance="0.01377" />
+		<item name="TF_Mag_M14_20Rnd" chance="0.01377" />
+		<item name="Mag_FAL_20Rnd" chance="0.01377" />
+		<item name="Mag_FAMAS_25Rnd" chance="0.01377" />
+		<item name="BO_Mag_L96_5rnd" chance="0.00689" />
+		<item name="Mag_VSS_10Rnd" chance="0.00689" />
+		<item name="Mag_Vikhr_30Rnd" chance="0.00138" />
+		<item name="Mag_AK74_30Rnd" chance="0.06887" />
+		<item name="Mag_AK74_30Rnd_Black" chance="0.02755" />
+		<item name="Mag_AK74_30Rnd_Green" chance="0.02755" />
+		<item name="Mag_AK74_45Rnd" chance="0.02066" />
+		<item name="Mag_AK101_30Rnd" chance="0.06887" />
+		<item name="Mag_AK101_30Rnd_Black" chance="0.02755" />
+		<item name="Mag_AK101_30Rnd_Green" chance="0.02755" />
+		<item name="Mag_CMAG_30Rnd_Black" chance="0.06887" />
+		<item name="Mag_CMAG_30Rnd_Green" chance="0.02755" />
+		<item name="Mag_CMAG_40Rnd_Black" chance="0.06887" />
+		<item name="Mag_CMAG_40Rnd_Green" chance="0.02755" />
+		<item name="Mag_AKM_Palm30Rnd_Black" chance="0.05510" />
+		<item name="Mag_AKM_Palm30Rnd_Green" chance="0.02755" />
+		<item name="Mag_AKM_30Rnd" chance="0.06887" />
+		<item name="Mag_AUG_30Rnd" chance="0.05510" />
+		<item name="Mag_SV98_10Rnd" chance="0.01377" />
+	</cargo>
 	<cargo chance="1.00" name="FFFF_GearStash_T1">
 		<item name="PoliceVest" chance="0.09" />
 		<item name="HuntingVest" chance="0.09" />
@@ -566,6 +709,25 @@
 		<item name="CoyoteBag_Green" chance="0.083" />
 	</cargo>
 	<cargo chance="1.00" name="FFFF_GearStash_T4">
+		<item name="FOG_Vest_JPC_RG" chance="0.107" />
+		<item name="FOG_Vest_JPC_Black" chance="0.107" />
+		<item name="MMG_Holster_black" chance="0.071" />
+		<item name="MMG_Holster_green" chance="0.071" />
+		<item name="MMG_sheath_black" chance="0.071" />
+		<item name="MMG_sheath_green" chance="0.071" />
+		<item name="FOG_Vest_TacTec_Black" chance="0.036" />
+		<item name="FOG_Vest_TacTec_RG" chance="0.036" />
+		<item name="FOG_Bag_DrawBridge_Black" chance="0.036" />
+		<item name="FOG_Bag_DrawBridge_OD" chance="0.036" />
+		<item name="FOG_Bag_DrawBridge_RG" chance="0.036" />
+		<item name="FOG_Bag_Trizip_RGCB" chance="0.071" />
+		<item name="FOG_Bag_Trizip_Puke" chance="0.071" />
+		<item name="MMG_carrier_backpack_black" chance="0.036" />
+		<item name="MMG_carrier_backpack_olive" chance="0.036" />
+		<item name="MMG_carrier_backpack_tan" chance="0.036" />
+		<item name="FOG_Bag_Trizip_DCU" chance="0.071" />
+	</cargo>
+	<cargo chance="1.00" name="FFFF_GearStash_T5">
 		<item name="FOG_Vest_JPC_RG" chance="0.107" />
 		<item name="FOG_Vest_JPC_Black" chance="0.107" />
 		<item name="MMG_Holster_black" chance="0.071" />
@@ -644,6 +806,31 @@
 		<item name="dzn_lantia_december" chance="0.037" />
 		<item name="dzn_lantia_vega7" chance="0.037" />
 	</cargo>
+	<cargo chance="0.30" name="FFFF_TechStash_T5">
+		<item name="Collectable_FloppyDisks_1999" chance="0.056" />
+		<item name="Collectable_FloppyDisks_April" chance="0.056" />
+		<item name="Collectable_RAM" chance="0.056" />
+		<item name="Collectable_USB" chance="0.056" />
+		<item name="Collectable_SSD" chance="0.056" />
+		<item name="Collectable_SSDV2" chance="0.056" />
+		<item name="Collectable_GPU" chance="0.056" />
+		<item name="Collectable_GPU" chance="0.056" />
+		<item name="dzn_athena_planning" chance="0.037" />
+		<item name="dzn_athena_action1" chance="0.037" />
+		<item name="dzn_athena_action2" chance="0.037" />
+		<item name="dzn_netanyas_log" chance="0.037" />
+		<item name="dzn_athena3_august" chance="0.037" />
+		<item name="dzn_athena3_exp1" chance="0.037" />
+		<item name="dzn_athena3_exp2" chance="0.037" />
+		<item name="dzn_athena3_october" chance="0.037" />
+		<item name="dzn_phoenix_log_1" chance="0.037" />
+		<item name="dzn_phoenix_log_2" chance="0.037" />
+		<item name="dzn_phoenix_log_3" chance="0.037" />
+		<item name="dzn_phoenix_log_4" chance="0.037" />
+		<item name="dzn_phoenix_log_5" chance="0.037" />
+		<item name="dzn_lantia_december" chance="0.037" />
+		<item name="dzn_lantia_vega7" chance="0.037" />
+	</cargo>
 	<cargo chance="0.66" name="FFFF_AttachmentStash_T1">
 		<item name="FNP45_MRDSOptic" chance="0.2" />
 		<item name="ReflexOptic" chance="0.2" />
@@ -652,6 +839,22 @@
 		<item name="TF_RifleSling_Black" chance="0.2" />
 	</cargo>
 	<cargo chance="0.66" name="FFFF_AttachmentStash_T2">
+		<item name="AK_FoldingBttstck" chance="0.032" />
+		<item name="AK_PlasticBttstck" chance="0.032" />
+		<item name="AK74_WoodBttstck" chance="0.032" />
+		<item name="M4_CQBBttstck" chance="0.032" />
+		<item name="M4_OEBttstck" chance="0.032" />
+		<item name="AK_PlasticHndgrd" chance="0.032" />
+		<item name="AK_WoodHndgrd" chance="0.032" />
+		<item name="M4_MPHndgrd" chance="0.032" />
+		<item name="M4_PlasticHndgrd" chance="0.032" />
+		<item name="MP5_PlasticHndgrd" chance="0.016" />
+		<item name="FNP45_MRDSOptic" chance="0.048" />
+		<item name="ReflexOptic" chance="0.048" />
+		<item name="M4_T3NRDSOptic" chance="0.048" />
+		<item name="TF_DeltaPointOptic_Black" chance="0.048" />
+	</cargo>
+	<cargo chance="0.66" name="FFFF_AttachmentStash_T3">
 		<item name="BO_Car15_Bttstk" chance="0.016" />
 		<item name="BO_SOPMODBttstck" chance="0.048" />
 		<item name="BO_CAR15_Handguard" chance="0.016" />
@@ -687,7 +890,24 @@
 		<item name="TF_DeltaPointOptic_Black" chance="0.048" />
 		<item name="TF_AR10_CMMG15Hndgrd_MLOCK" chance="0.016" />
 	</cargo>
-	<cargo chance="0.66" name="FFFF_AttachmentStash_T3">
+	<cargo chance="0.66" name="FFFF_AttachmentStash_T4">
+		<item name="ReflexOptic" chance="0.0161" />
+		<item name="TF_DeltaPointOptic_Black" chance="0.0161" />
+		<item name="BO_Vudu" chance="0.0161" /> <!-- 6x PiP -->
+		<item name="AD_ACOG" chance="0.0161" /> <!-- 4x PiP -->
+		<item name="BO_AimpointT1" chance="0.0161" /> <!-- no mag -->
+		<item name="BO_Eotech552" chance="0.0161" /> <!-- no mag -->
+		<item name="AD_XPS34" chance="0.0161" /> <!-- no mag -->
+		<item name="BO_VortexAMG_UH1_Optic" chance="0.0161" /> <!-- no mag -->
+		<item name="AD_NFATACR_1_8" chance="0.0161" /> <!-- 8x NOT PiP -->
+		<item name="AD_NFATACR_1_8_B13" chance="0.0161" /> <!-- 8x NOT PiP -->
+		<item name="AD_ACOG_B13" chance="0.0161" /> <!-- 4x PiP -->
+		<item name="BO_HAMROptic" chance="0.0161" /> <!-- 4x PiP -->
+		<item name="AD_ACOG" chance="0.0161" /> <!-- 4x PiP -->
+		<item name="AD_ACOG_RMR" chance="0.0161" /> <!-- 4x PiP -->
+		<item name="AD_SpecterDR" chance="0.0161" /> <!-- 6x PiP -->
+		<item name="AD_XPS34_HHS" chance="0.0161" /> <!-- 4x PiP -->
+		
 		<item name="BO_MCXSpear_Bttstck_Tan" chance="0.011" />
 		<item name="BO_PP1901_Bttstck" chance="0.011" />
 		<item name="BO_MK18Bttstck" chance="0.043" />
@@ -720,10 +940,9 @@
 		<item name="ReflexOptic" chance="0.032" />
 		<item name="TF_DeltaPointOptic_Black" chance="0.032" />
 		<item name="BO_Eotech552" chance="0.043" />
-		<item name="AD_XPS34" chance="0.043" />
 		<item name="BO_VortexAMG_UH1_Optic" chance="0.043" />
 	</cargo>
-	<cargo chance="0.66" name="FFFF_AttachmentStash_T4">
+	<cargo chance="0.66" name="FFFF_AttachmentStash_T5">
 		<item name="ReflexOptic" chance="0.0161" />
 		<item name="TF_DeltaPointOptic_Black" chance="0.0161" />
 		<item name="BO_Vudu" chance="0.0161" />
@@ -779,6 +998,21 @@
 		<item name="TF_AFG_MLOCK_Grip_Black" chance="0.0175" />
 		<item name="TF_BCM_MLOCK_Grip_Black" chance="0.0175" />
 	</cargo>
+	<cargo chance="0.66" name="FFFF_OpticStash_T1">
+
+	</cargo>
+	<cargo chance="0.66" name="FFFF_OpticStash_T2">
+
+	</cargo>
+	<cargo chance="0.66" name="FFFF_OpticStash_T3">
+
+	</cargo>
+	<cargo chance="0.66" name="FFFF_OpticStash_T4">
+
+	</cargo>
+	<cargo chance="0.66" name="FFFF_OpticStash_T5">
+
+	</cargo>
 	<cargo chance="0.66" name="FFFF_RadiationStash_T1">
 		<item name="SR_RadiacSetPDR39A" chance="0.458" />
 		<item name="GP5GasMask" chance="0.042" />
@@ -804,6 +1038,15 @@
 		<item name="SR_Potassium" chance="0.136" />
 	</cargo>
 	<cargo chance="0.90" name="FFFF_RadiationStash_T4">
+		<item name="SR_TechAssTBC3S" chance="0.133" />
+		<item name="SR_SosnaAnri0102" chance="0.067" />
+		<item name="FFFF_Clothing_GasMasks_FreedomGasMask" chance="0.067" />
+		<item name="TF_PMK4GasMask_OD" chance="0.267" />
+		<item name="FOG_M50_Gasmask_Black" chance="0.133" />
+		<item name="GasMask_Filter" chance="0.200" />
+		<item name="SR_Potassium" chance="0.133" />
+	</cargo>
+	<cargo chance="0.90" name="FFFF_RadiationStash_T5">
 		<item name="SR_TechAssTBC3S" chance="0.133" />
 		<item name="SR_SosnaAnri0102" chance="0.067" />
 		<item name="FFFF_Clothing_GasMasks_FreedomGasMask" chance="0.067" />
